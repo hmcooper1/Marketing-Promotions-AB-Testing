@@ -1,4 +1,5 @@
 # Marketing-Promotions-AB-Testing
+[Click here](https://nbviewer.org/github/hmcooper1/Marketing-Promotions-AB-Testing/blob/main/marketing_promotions_ab_testing.ipynb.ipynb) to view the full notebook on NBViewer.
 ## Overview
 This project aims to identify the most effective marketing campaign for promoting a new product in a fast-food chain. Campaign effectiveness is measured by total sales. In randomly selected markets, each location utilized a different promotional strategy to sell the new menu item, and sales data were collected over the first four weeks. This approach mirrors an A/B testing framework, comparing multiple promotional strategies to determine the most successful one.
 ## Goal
